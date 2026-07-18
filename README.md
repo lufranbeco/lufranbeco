@@ -16,11 +16,12 @@
 ### 🛠️ Technologies & Tools
 
 Throughout my academic and self-taught training, I have built solid foundations in:
-
-- **Operating Systems & Automation:** Linux (System Administration), BASH Scripting.
-- **Programming Languages:** Python, Java, C++.
-- **Design:** 2D and 3D AutoCAD.
-- **Languages:** Spanish (Native), English (Intermediate).
+  
+  
+- **Operating Systems & Automation:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black), ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white).
+- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white).
+- **Design:** 2D and 3D ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white).
+- **Languages:**  ![Español](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-Nativo-E31D1C?style=flat-square), ![English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-Intermediate-00247D?style=flat-square)
 
 ---
 
@@ -35,4 +36,4 @@ Throughout my academic and self-taught training, I have built solid foundations 
 I am currently designing blueprints for furniture products at Bectronix, studying Python, Java, and other languages, continuing my cybersecurity practices, and learning new skills while uploading my progress, improvements, and projects to this profile. 
 
 📫 **How to reach me:** 
-* You can connect with me through my [LinkedIn](https://www.linkedin.com/in/luis-francisco-becerra-collins-3701941b7).
+* You can connect with me through my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-francisco-becerra-collins-3701941b7).
