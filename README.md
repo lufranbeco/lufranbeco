@@ -1,4 +1,4 @@
-![Banner of Luis Becerra](https://github.com/lufranbeco/lufranbeco/blob/main/BannerGitHub.png?raw=true)
+![Banner of Luis Becerra](https://github.com/lufranbeco/lufranbeco/blob/main/Banner-LuisBecera-GitHub.png?raw=true)
 # Hello there! I'm Luis Francisco Becerra Collins 👋
 
 **Computer Engineering** student focused on developing secure and intelligent solutions. I am passionate about technology, network architecture, and data protection.
